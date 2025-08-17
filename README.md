@@ -66,4 +66,4 @@ The analysis includes:
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/employee-attrition-eda.git
+   git clone https://github.com/your-username/HR-Employee-Attrition-EDA.git
